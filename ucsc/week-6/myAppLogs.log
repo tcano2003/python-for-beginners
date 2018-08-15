@@ -1,0 +1,5 @@
+[2018-08-15 13:42:00,756:<ipython-input-12-1283897fa4f2>:1:DEBUG] Debug Log
+[2018-08-15 13:42:00,757:<ipython-input-12-1283897fa4f2>:2:INFO] info Log
+[2018-08-15 13:42:00,769:<ipython-input-12-1283897fa4f2>:3:WARNING] warning Log
+[2018-08-15 13:42:00,772:<ipython-input-12-1283897fa4f2>:4:ERROR] Error Log
+[2018-08-15 13:42:00,775:<ipython-input-12-1283897fa4f2>:5:CRITICAL] Critical Log
